@@ -1,5 +1,3 @@
-;Faruk Orak 150180058
-
 INDEX 	EQU		6; index value
 
 
